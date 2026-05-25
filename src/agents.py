@@ -42,8 +42,26 @@ def create_medical_validator_agent() -> Agent:
         backstory=(
             "You are a careful medical dataset quality agent. "
             "You check whether each record is safe, clear, useful, "
-            "and suitable for an educational NLP dataset. "
-            "You do not provide personal medical advice."
+            "and suitable for an educational NLP dataset."
+        ),
+        llm=create_local_llm(),
+        verbose=False,
+        allow_delegation=False,
+    )
+
+
+def create_dataset_tester_agent() -> Agent:
+    return Agent(
+        role="Medical Dataset Quality Tester",
+        goal=(
+            "Analyze the quality of a generated medical NLP dataset "
+            "using clear metrics and report its strengths, weaknesses, "
+            "risks, and improvement steps."
+        ),
+        backstory=(
+            "You are an intelligent systems evaluator. "
+            "You analyze datasets, detect quality problems, "
+            "and write concise technical reports for academic projects."
         ),
         llm=create_local_llm(),
         verbose=False,
