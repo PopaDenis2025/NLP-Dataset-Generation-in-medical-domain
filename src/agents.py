@@ -27,6 +27,25 @@ def create_medical_extractor_agent() -> Agent:
             "You return strict JSON only."
         ),
         llm=create_local_llm(),
-        verbose=True,
+        verbose=False,
+        allow_delegation=False,
+    )
+
+
+def create_medical_validator_agent() -> Agent:
+    return Agent(
+        role="Medical Dataset Validator and Cleaner",
+        goal=(
+            "Validate, clean, normalize and filter extracted medical "
+            "dataset records."
+        ),
+        backstory=(
+            "You are a careful medical dataset quality agent. "
+            "You check whether each record is safe, clear, useful, "
+            "and suitable for an educational NLP dataset. "
+            "You do not provide personal medical advice."
+        ),
+        llm=create_local_llm(),
+        verbose=False,
         allow_delegation=False,
     )
