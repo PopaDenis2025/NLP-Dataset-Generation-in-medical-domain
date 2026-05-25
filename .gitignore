@@ -1,7 +1,14 @@
 .venv/
+venv/
+env/
+
 .env
+*.env
+
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
 data/raw/pages_raw.jsonl
 data/intermediate/*.jsonl
@@ -11,3 +18,5 @@ data/final/*.jsonl
 .DS_Store
 .idea/
 .vscode/
+
+*.log
