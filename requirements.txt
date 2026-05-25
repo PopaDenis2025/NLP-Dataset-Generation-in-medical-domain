@@ -1,0 +1,8 @@
+crewai
+python-dotenv
+pydantic
+pandas
+requests
+beautifulsoup4
+lxml
+tqdm

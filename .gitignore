@@ -1,0 +1,13 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+
+data/raw/pages_raw.jsonl
+data/intermediate/*.jsonl
+data/final/*.csv
+data/final/*.jsonl
+
+.DS_Store
+.idea/
+.vscode/

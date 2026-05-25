@@ -1,0 +1,21 @@
+source_name,url,topic
+MedlinePlus,https://medlineplus.gov/flu.html,flu
+MedlinePlus,https://medlineplus.gov/commoncold.html,common cold
+MedlinePlus,https://medlineplus.gov/asthma.html,asthma
+MedlinePlus,https://medlineplus.gov/diabetes.html,diabetes
+MedlinePlus,https://medlineplus.gov/highbloodpressure.html,high blood pressure
+MedlinePlus,https://medlineplus.gov/migraine.html,migraine
+MedlinePlus,https://medlineplus.gov/pneumonia.html,pneumonia
+MedlinePlus,https://medlineplus.gov/bronchitis.html,bronchitis
+MedlinePlus,https://medlineplus.gov/anemia.html,anemia
+MedlinePlus,https://medlineplus.gov/dehydration.html,dehydration
+NHS,https://www.nhs.uk/conditions/flu/,flu
+NHS,https://www.nhs.uk/conditions/common-cold/,common cold
+NHS,https://www.nhs.uk/conditions/asthma/,asthma
+NHS,https://www.nhs.uk/conditions/type-2-diabetes/,type 2 diabetes
+NHS,https://www.nhs.uk/conditions/high-blood-pressure-hypertension/,hypertension
+NHS,https://www.nhs.uk/conditions/migraine/,migraine
+NHS,https://www.nhs.uk/conditions/pneumonia/,pneumonia
+NHS,https://www.nhs.uk/conditions/bronchitis/,bronchitis
+NHS,https://www.nhs.uk/conditions/iron-deficiency-anaemia/,anemia
+NHS,https://www.nhs.uk/conditions/dehydration/,dehydration
