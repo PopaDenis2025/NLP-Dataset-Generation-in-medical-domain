@@ -1,17 +1,15 @@
 {
-  "total_rows": 72,
-  "unique_symptoms": 51,
-  "unique_diseases": 13,
-  "unique_sources": 2,
-  "average_confidence": 0.8533,
-  "duplicate_count": 0,
-  "duplicate_rate": 0.0,
-  "valid_count": 67,
-  "needs_review_count": 5,
-  "rejected_count": 0,
-  "treatment_too_short_count": 0,
-  "evidence_too_short_count": 0,
-  "risky_treatment_count": 4,
+  "total_rows": 43,
+  "unique_symptoms": 30,
+  "unique_diseases": 5,
+  "unique_sources": 6,
+  "average_confidence": 0.8563,
+  "duplicate_count": 1,
+  "duplicate_rate": 0.0233,
+  "valid_count": 33,
+  "needs_review_count": 7,
+  "rejected_count": 3,
+  "risky_treatment_count": 0,
   "missing_by_column": {
     "symptom": 0,
     "disease": 0,
@@ -28,106 +26,92 @@
   },
   "top_symptoms": [
     [
-      "shortness of breath",
-      7
-    ],
-    [
       "fever",
       5
-    ],
-    [
-      "cough",
-      4
-    ],
-    [
-      "chest pain",
-      4
     ],
     [
       "headache",
       3
     ],
     [
-      "diarrhea",
-      2
+      "sore throat",
+      3
     ],
     [
       "coughing",
+      3
+    ],
+    [
+      "cough",
       2
     ],
     [
-      "headaches",
+      "chest tightness",
       2
     ],
     [
-      "fatigue (tiredness)",
+      "shortness of breath",
+      2
+    ],
+    [
+      "muscle or body aches",
       1
     ],
     [
-      "vomiting",
+      "vomiting and diarrhea",
+      1
+    ],
+    [
+      "runny nose",
       1
     ]
   ],
   "top_diseases": [
     [
       "influenza",
-      13
-    ],
-    [
-      "migraine",
-      9
-    ],
-    [
-      "iron deficiency anaemia",
-      8
-    ],
-    [
-      "diabetes",
-      7
-    ],
-    [
-      "pneumonia",
-      7
-    ],
-    [
-      "high blood pressure",
-      6
-    ],
-    [
-      "common cold",
-      4
+      23
     ],
     [
       "asthma",
-      4
+      7
     ],
     [
-      "dehydration",
-      4
+      "common cold",
+      6
     ],
     [
-      "chronic bronchitis",
-      3
+      "osteoarthritis",
+      6
+    ],
+    [
+      "pneumonia",
+      1
     ]
   ],
   "source_distribution": [
     [
       "MedlinePlus",
-      41
+      17
     ],
     [
       "NHS",
-      31
-    ]
-  ],
-  "validation_distribution": [
-    [
-      "valid",
-      67
+      15
     ],
     [
-      "needs_review",
-      5
+      "Mayo Clinic",
+      6
+    ],
+    [
+      "Centers for Disease Control and Prevention",
+      3
+    ],
+    [
+      "National Heart, Lung, and Blood Institute",
+      1
+    ],
+    [
+      "National Center for Complementary and Integrative Health",
+      1
     ]
   ]
 }

@@ -1,8 +1,13 @@
 crewai
+crewai-tools
 python-dotenv
-pydantic
-pandas
 requests
 beautifulsoup4
 lxml
 tqdm
+pydantic
+pandas
+scikit-learn
+jupyter
+ipykernel
+nbformat

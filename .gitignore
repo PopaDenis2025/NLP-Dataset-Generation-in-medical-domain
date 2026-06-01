@@ -10,11 +10,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-data/raw/pages_raw.jsonl
-data/intermediate/*.jsonl
-data/final/*.csv
-data/final/*.jsonl
-
 .DS_Store
 .idea/
 .vscode/

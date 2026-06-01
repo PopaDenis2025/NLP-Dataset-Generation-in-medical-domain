@@ -1,0 +1,8 @@
+python -m src.scraper
+python -m src.inspect_raw
+python -m src.extract_dataset
+python -m src.inspect_extracted
+python -m src.validate_dataset
+python -m src.inspect_final
+python -m src.test_dataset
+python -m src.quick_stats
