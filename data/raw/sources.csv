@@ -18,4 +18,91 @@ NHS,https://www.nhs.uk/conditions/migraine/,migraine
 NHS,https://www.nhs.uk/conditions/pneumonia/,pneumonia
 NHS,https://www.nhs.uk/conditions/bronchitis/,bronchitis
 NHS,https://www.nhs.uk/conditions/iron-deficiency-anaemia/,anemia
-NHS,https://www.nhs.uk/conditions/dehydration/,dehydration
+NHS,https://www.nhs.uk/conditions/dehydration/,
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/flu/symptoms-causes/syc-20351719,flu
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/asthma/symptoms-causes/syc-20369653,asthma
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/symptoms-causes/syc-20351193,type 2 diabetes
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410,hypertension
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/migraine-headache/symptoms-causes/syc-20360201,migraine
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204,pneumonia
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/bronchitis/symptoms-causes/syc-20355566,bronchitis
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/anemia/symptoms-causes/syc-20351360,anemia
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/dehydration/symptoms-causes/syc-20354086,dehydration
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963,covid-19
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/acute-sinusitis/symptoms-causes/syc-20351671,sinusitis
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/ear-infections/symptoms-causes/syc-20351616,ear infection
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/strep-throat/symptoms-causes/syc-20350338,strep throat
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/food-poisoning/symptoms-causes/syc-20356230,food poisoning
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/gastroenteritis/symptoms-causes/syc-20367663,gastroenteritis
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/symptoms-causes/syc-20353447,urinary tract infection
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/kidney-infection/symptoms-causes/syc-20353387,kidney infection
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/copd/symptoms-causes/syc-20353679,copd
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/allergies/symptoms-causes/syc-20351497,allergies
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/hay-fever/symptoms-causes/syc-20373039,hay fever
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/eczema/symptoms-causes/syc-20353273,eczema
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/psoriasis/symptoms-causes/syc-20355840,psoriasis
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/acne/symptoms-causes/syc-20368047,acne
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007,depression
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/anxiety/symptoms-causes/syc-20350961,anxiety
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/gerd/symptoms-causes/syc-20361940,gerd
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/irritable-bowel-syndrome/symptoms-causes/syc-20360016,irritable bowel syndrome
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/constipation/symptoms-causes/syc-20354253,constipation
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/diarrhea/symptoms-causes/syc-20352241,diarrhea
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/gallstones/symptoms-causes/syc-20354214,gallstones
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/appendicitis/symptoms-causes/syc-20369543,appendicitis
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/arthritis/symptoms-causes/syc-20350772,arthritis
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/rheumatoid-arthritis/symptoms-causes/syc-20353648,rheumatoid arthritis
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/osteoarthritis/symptoms-causes/syc-20351925,osteoarthritis
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/back-pain/symptoms-causes/syc-20369906,back pain
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/osteoporosis/symptoms-causes/syc-20351968,osteoporosis
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/hypothyroidism/symptoms-causes/syc-20350284,hypothyroidism
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/hyperthyroidism/symptoms-causes/syc-20373659,hyperthyroidism
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742,obesity
+Mayo Clinic,https://www.mayoclinic.org/diseases-conditions/sleep-apnea/symptoms-causes/syc-20377631,sleep apnea
+
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/6424-asthma,asthma
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes,type 2 diabetes
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure,hypertension
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/5005-migraine-headaches,migraine
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/4471-pneumonia,pneumonia
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/3993-bronchitis,bronchitis
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/3929-anemia,anemia
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/9013-dehydration,dehydration
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/21214-coronavirus-covid-19,covid-19
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/15285-sinusitis,sinusitis
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/8613-ear-infection-otitis-media,ear infection
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/4602-strep-throat,strep throat
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/21167-food-poisoning,food poisoning
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/12418-gastroenteritis,gastroenteritis
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/9135-urinary-tract-infections,urinary tract infection
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/17627-chronic-obstructive-pulmonary-disease-copd,copd
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/8610-allergies,allergies
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/8622-hay-fever-allergic-rhinitis,hay fever
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/9998-eczema,eczema
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/6866-psoriasis,psoriasis
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/12233-acne,acne
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/9290-depression,depression
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/9536-anxiety-disorders,anxiety
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/17019-gerd-gastroesophageal-reflux-disease,gerd
+Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/4342-irritable-bowel-syndrome-ibs,irritable bowel syndrome
+
+healthdirect,https://www.healthdirect.gov.au/asthma-in-adolescents-and-adults,asthma
+healthdirect,https://www.healthdirect.gov.au/diabetes-types,diabetes
+healthdirect,https://www.healthdirect.gov.au/high-blood-pressure-and-how-to-lower-it,hypertension
+healthdirect,https://www.healthdirect.gov.au/pneumonia,pneumonia
+healthdirect,https://www.healthdirect.gov.au/chest-infection,chest infection
+healthdirect,https://www.healthdirect.gov.au/type-1-diabetes,type 1 diabetes
+healthdirect,https://www.healthdirect.gov.au/wheezing,wheezing
+healthdirect,https://www.healthdirect.gov.au/pleurisy,pleurisy
+healthdirect,https://www.healthdirect.gov.au/dehydration,dehydration
+healthdirect,https://www.healthdirect.gov.au/migraine,migraine
+healthdirect,https://www.healthdirect.gov.au/bronchitis,bronchitis
+healthdirect,https://www.healthdirect.gov.au/anaemia,anemia
+healthdirect,https://www.healthdirect.gov.au/gastroenteritis,gastroenteritis
+healthdirect,https://www.healthdirect.gov.au/food-poisoning,food poisoning
+healthdirect,https://www.healthdirect.gov.au/urinary-tract-infection-uti,urinary tract infection
+healthdirect,https://www.healthdirect.gov.au/sinusitis,sinusitis
+healthdirect,https://www.healthdirect.gov.au/ear-infection,ear infection
+healthdirect,https://www.healthdirect.gov.au/eczema,eczema
+healthdirect,https://www.healthdirect.gov.au/psoriasis,psoriasis
+healthdirect,https://www.healthdirect.gov.au/acne,acne
